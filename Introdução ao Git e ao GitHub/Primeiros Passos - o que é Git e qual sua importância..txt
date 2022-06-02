@@ -1,0 +1,12 @@
+
+ O que é Git?
+
+ o git é um sistema de versôniamento de codigo destribuido, foi criado em 2005 por linus torvalds o mesmo é 
+ o criador por trás do linux.
+
+ */
+ * A grosso modo falando, o git é um sistema onde faz a ligação do nosso ambiente de desenvolvimento local
+ * através da nossa maquina ao servidor remoto chamado GitHub, onde neste servidor pessoas do mundo todo, tem acesso ao 
+ * nosso código e pode baixa-lo para usa-lo, então existira diversas copias do nosso códigos espalhadas pelo mundo 
+ * onde podemos trabalhar compartilhadamente, e receber ajuda de desenvolvedores mais experientes. 
+ /*

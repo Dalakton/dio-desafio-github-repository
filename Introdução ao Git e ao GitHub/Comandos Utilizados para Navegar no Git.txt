@@ -1,0 +1,36 @@
+
+ Primeiro devemos entender que a interação dada com o Git é / CLI comand line interfeces ou sejá os comandos dados 
+ para interagir é via linhas de comando, os quais será listados a baixo :
+
+ 1 - Comando *cd* para navegar entre as pastas.
+     
+     Ex: cd / e depois
+     cd Windows e aperta enter, já estara dentro da pasta Windows.
+
+  ainda usando o comando cd, usando o *cd ..* você estará regressando a pasta anterior acessada.
+
+ 2 - Comando *ls* lista todos os arquivos e pastas de onde você estiver, se você estiver na pasta documentos,
+     do seu computador pelo git, usando o comando ls você estará tendo visibilidade de todos aquivos e pastas.
+  
+     Ex: ls e depois enter.
+
+ 3 - Comando *clear ou Crl+L* , você estará limpando todos os comandos  acessadas, mais  você 
+     continuará  dentro da pasta acessada.
+
+     Ex: Clear e enter ou Ctrl+l e já será apegado os comandos.
+
+ 4 - Comando *mkdir nomeDaPasta* comando utilizado par criação de pastas.
+
+     Ex: mkdir Workspace e enter, será criada uma pasta dentro de onde você estiver. 
+    
+ 5 - Comando *echo* Comando usado para criar arquivos dentro da pasta que você estiver.
+
+     Ex: echo hello > hello.txt e enter, pronto você ja criou um arquivo onde você esta inserido
+
+ 6 - Comando * del* Usado para somente deletar arquivos
+
+    Ex: del Workspace e enter, pronto você irá deletar todos os arquivos desta pasta Workspace.
+
+ 7 - Comando *rmdir* Usado para deletar uma pasta.
+
+     Ex: rmdir Workspace e enter, pronto você deletou a pasta Workspace     
